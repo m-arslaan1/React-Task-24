@@ -1,8 +1,3 @@
-# React + Vite
+Link to visit site: "https://shoeswardrobe.netlify.app"
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+As heard, Context Api is not an easy deal and which took me a lot of time to grab the concepts. I have watched through lot of recommnded videos and documents as part of learning and practicing  that how an I process the changes in existing project and here I am submiting my project as I have finally made it ass expected. What I have learned and understood the use Context Api that helps in my decision making.
