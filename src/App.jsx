@@ -1,8 +1,8 @@
 import React from 'react';
 import { CartProvider } from './contexts/CartContext';
-import ShoeList from './ShoeList';  // Shop component
-import Cart from './Cart';  // Cart component
-import Payment from './Payment';  // Payment component
+import ShoeList from './ShoeList'; 
+import Cart from './Cart';  
+import Payment from './Payment';  
 import './App.css';
 import { useCart } from './contexts/CartContext';
 
